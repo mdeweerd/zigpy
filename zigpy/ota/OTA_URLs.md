@@ -22,7 +22,7 @@ Dresden Elektronik also provide third-party OTA firmware images and external URL
 
 EUROTRONICS Zigbee OTA firmware images are made publicly available by EUROTRONIC Technology (first-party) at the following URL:
 
-https://github.com/EUROTRONIC-Technology/Spirit-ZigBee/releases/download/
+https://github.com/EUROTRONIC-Technology/Spirit-ZigBee/releases
 
 ### IKEA Trådfri 
 
